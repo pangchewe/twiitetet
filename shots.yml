@@ -2,9 +2,9 @@
   output: shot.png
   width: 800
   height: 1600
-  quality: 120
+  quality: 100
 - url: https://finchat.io/investor/himalaya-capital-management-llc/
   output: shot2.png
   width: 800
   height: 1600
-  quality: 120
+  quality: 100
