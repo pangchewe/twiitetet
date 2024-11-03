@@ -1,6 +1,8 @@
 - url: https://finchat.io/investor/berkshire-hathaway-inc/
   output: shot.png
+  width: 200
   height: 1600
+  quality: 80
 - url: https://finchat.io/investor/himalaya-capital-management-llc/
   output: shot2.png
   height: 800
